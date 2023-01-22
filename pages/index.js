@@ -38,10 +38,10 @@ const onUserChangedText = (event) => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Summoning: Impure World Reincarnation</h1>
+            <h1>Magic Blog Post Generator</h1>
           </div>
           <div className="header-subtitle">
-            <h2><center>Write a message to Milton Hyland Erickson (5 December 1901 – 25 March 1980). He was an American psychiatrist and psychologist specializing in medical hypnosis and family therapy.</center></h2>
+            <h2><center>Input the title to your blog post below, we'll generate the rest.</center></h2>
           </div>
         </div>
         {/* Add this code here*/}
